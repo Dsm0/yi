@@ -15,8 +15,8 @@ import Yi.Utils (io)
 import Yi.Modes (gnuMakeMode, jsonMode, cMode)
 import Yi.Mode.Haskell (cleverMode, preciseMode, literateMode, fastMode)
 
-import Yi.Style.Library (defaultTheme)
 import Yi.Style
+import UserThemes (myTheme)
 
 import qualified Yi.Keymap.Vim as V
 import qualified Yi.Keymap.Vim.Common as V
@@ -65,9 +65,6 @@ myConfig actions = defaultConfig
         : YiA guessMakePrg
         : actions
     }
-
-myTheme :: Theme
-myTheme = darkBlueTheme
 
 makeKeymapSet  :: Bindings -> Parsers -> KeymapSet
 makeKeymapSet bindings parsers = V.mkKeymapSet $ V.defVimConfig `override` \super this ->

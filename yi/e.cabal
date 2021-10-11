@@ -13,6 +13,7 @@ executable e
   main-is:             Main.hs
   other-modules:
       Fuzzy
+      UserThemes 
       FuzzyFile
       FuzzyMatchScore
       Make
@@ -32,6 +33,7 @@ executable e
     , free
     , microlens-platform
     , mtl
+    , oo-prototypes
     , parallel
     , parsec
     , process >= 1.2.3
