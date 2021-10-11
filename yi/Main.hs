@@ -4,16 +4,18 @@
 import Control.Monad.State hiding (state)
 import Data.List (intersperse)
 import Data.Monoid
+import Data.Version
 import qualified Data.Text as T
 import Lens.Micro.Platform
 import System.Directory (getCurrentDirectory)
 import System.Environment
 
 import Yi.Keymap.Vim.StateUtils (resetCountE)
-import Yi hiding (super)
+import Yi hiding (super, option)
 import Yi.Utils (io)
 import Yi.Modes (gnuMakeMode, jsonMode, cMode)
 import Yi.Mode.Haskell (cleverMode, preciseMode, literateMode, fastMode)
+import Yi.Config.Simple.Types
 
 import Yi.Style
 import UserThemes (myTheme)
@@ -23,8 +25,12 @@ import qualified Yi.Keymap.Vim.Common as V
 import qualified Yi.Keymap.Vim.Ex.Types as V
 import qualified Yi.Keymap.Vim.Ex.Commands.Common as V
 import qualified Yi.Keymap.Vim.Utils as V
--- import qualified Yi.Frontend.Vty as Vty
+import qualified Yi.Frontend.Vty as Vty
 import qualified Yi.Frontend.Pango as Pango
+
+import Paths_yi_core (version)
+
+import Options.Applicative
 
 import FuzzyFile
 import Make
@@ -37,16 +43,62 @@ import PyflakesMode
 type Bindings = ((V.EventString -> EditorM ()) -> [V.VimBinding])
 type Parsers = [V.EventString -> Maybe V.ExCommand]
 
+data CommandLineOptions = CommandLineOptions {
+    frontend :: Maybe String
+  , keymap :: Maybe String
+  , startOnLine :: Maybe Int
+  , files :: [String]
+  }
+
+commandLineOptions :: Parser (Maybe CommandLineOptions)
+commandLineOptions = flag' Nothing
+                       ( long "version"
+                      <> short 'v'
+                      <> help "Show the version number")
+  <|> (Just <$> (CommandLineOptions
+    <$> optional (strOption
+        ( long "frontend"
+       <> short 'f'
+       <> metavar "FRONTEND"
+       <> help "The frontend to use (default is pango)"))
+    <*> optional (strOption
+        ( long "keymap"
+       <> short 'k'
+       <> metavar "KEYMAP"
+       <> help "The keymap to use (default is emacs)"))
+    <*> optional (option auto
+        ( long "line"
+       <> short 'l'
+       <> metavar "NUM"
+       <> help "Open the (last) file on line NUM"))
+    <*> many (argument str (metavar "FILES..."))
+  ))
+
+
 
 main :: IO ()
 main = do
-    files <- getArgs
-    case files of
-      [] -> startEditor (myConfig []) Nothing
-      ("--help":_) -> putStrLn helpText
-      (arg:args) -> do
-        let actions = intersperse (EditorA newTabE) (map (YiA . openNewFile) files)
+    mayClo <- execParser opts
+    case mayClo of
+      Nothing -> putStrLn ("Yi " <> showVersion version)
+      Just clo -> do
+        let actions = intersperse (EditorA newTabE) (map (YiA . openNewFile) $ files clo)
         startEditor (myConfig actions) Nothing
+  where
+   opts = info (helper <*> commandLineOptions)
+     ( fullDesc
+    <> progDesc "Edit files"
+    <> header "Yi - a flexible and extensible text editor written in haskell")
+
+-- main :: IO ()
+-- main = do
+--     files <- getArgs
+--     case files of
+--       [] -> startEditor (myConfig []) Nothing
+--       ("--help":_) -> putStrLn helpText
+--       (arg:args) -> do
+--         let actions = intersperse (EditorA newTabE) (map (YiA . openNewFile) files)
+--         startEditor (myConfig actions) Nothing
 
 myConfig :: [Action] -> Config
 myConfig actions = defaultConfig

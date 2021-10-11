@@ -34,6 +34,7 @@ executable e
     , microlens-platform
     , mtl
     , oo-prototypes
+    , optparse-applicative
     , parallel
     , parsec
     , process >= 1.2.3
