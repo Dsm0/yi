@@ -1,3 +1,0 @@
-resolver: lts-6.19
-extra-deps:
-- ListLike-4.5
