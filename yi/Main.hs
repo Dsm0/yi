@@ -102,7 +102,7 @@ myConfig frontend actions = defaultConfig
     , startFrontEnd = case frontend of 
             Nothing -> Vty.start
             Just "vty" -> Vty.start
-            Just "pango" -> Vty.start
+            Just "pango" -> Pango.start
             Just x -> error (x ++ " is not a valid frontned") -- TODO looks kinda ugly, maybe check for frontend earlier
     , defaultKm = myKeymapSet
     , configCheckExternalChangesObsessively = False
