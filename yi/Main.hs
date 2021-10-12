@@ -15,7 +15,7 @@ import Yi.Keymap.Vim.StateUtils (resetCountE)
 import Yi hiding (super, option)
 import Yi.Utils (io)
 import Yi.Modes (gnuMakeMode, jsonMode, cMode)
-import Yi.Mode.Haskell (cleverMode, preciseMode, literateMode, fastMode)
+import Yi.Mode.Tidal (cleverMode, preciseMode, literateMode, fastMode)
 import Yi.Config.Simple.Types
 
 import Yi.Style
@@ -75,7 +75,6 @@ commandLineOptions = flag' Nothing
     <*> many (argument str (metavar "FILES..."))
   ))
 
-
 main :: IO ()
 main = do
     mayClo <- execParser opts
@@ -101,7 +100,8 @@ myConfig frontend actions = defaultConfig
     , startFrontEnd = case frontend of 
             Nothing -> Pango.start
             Just "vty" -> Vty.start
-            Just x -> error (x ++ " is not a valid frontned")
+            Just "pango" -> Vty.start
+            Just x -> error (x ++ " is not a valid frontned") -- TODO looks kinda ugly, maybe check for frontend earlier
     , defaultKm = myKeymapSet
     , configCheckExternalChangesObsessively = False
     , configUI = ((configUI defaultConfig) {configTheme = myTheme})
@@ -219,11 +219,13 @@ configureModeline = onMode $ \m -> m {modeModeLine = myModeLine}
 
 myModes :: Config -> [AnyMode]
 myModes cfg
-    = AnyMode gnuMakeMode
-    : AnyMode pyflakesMode
-    : AnyMode cMode
-    : AnyMode jsonMode
-    : AnyMode cleverMode
+    = 
+    --   AnyMode gnuMakeMode
+    -- : AnyMode pyflakesMode
+    -- : AnyMode cMode
+    -- : AnyMode jsonMode
+    -- : 
+      AnyMode cleverMode
     : AnyMode preciseMode
     : AnyMode literateMode
     : AnyMode fastMode

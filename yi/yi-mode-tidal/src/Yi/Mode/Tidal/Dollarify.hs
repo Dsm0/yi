@@ -9,7 +9,7 @@
 -- Stability   :  experimental
 -- Portability :  portable
 
-module Yi.Mode.Haskell.Dollarify where
+module Yi.Mode.Tidal.Dollarify where
 
 import           Control.Monad       (unless)
 import           Data.Function       (on)
@@ -23,7 +23,7 @@ import           Yi.Lexer.Alex       (Tok (..), posnOfs)
 import           Yi.Lexer.Haskell    (TT, Token (..), isComment)
 import qualified Yi.Rope             as R (YiString, null)
 import           Yi.String           (showT)
-import qualified Yi.Syntax.Haskell   as H (Exp (..), Tree)
+import qualified Yi.Syntax.Tidal as H (Exp (..), Tree)
 import           Yi.Syntax.Paren     (Expr, Tree (..))
 import           Yi.Syntax.Tree      (getAllSubTrees, getFirstOffset, getLastOffset, getLastPath)
 

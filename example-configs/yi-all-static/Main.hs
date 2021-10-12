@@ -17,6 +17,7 @@ import Data.List                (intersperse)
 import Lens.Micro.Platform      ((.=))
 import Data.Maybe               (fromMaybe)
 import Data.Monoid              ((<>))
+import Yi.Mode.Tidal
 
 import Options.Applicative
 

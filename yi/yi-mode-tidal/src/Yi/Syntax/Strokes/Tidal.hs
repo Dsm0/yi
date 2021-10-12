@@ -12,7 +12,7 @@
 -- Produces 'Stroke's from a tree of tokens, used by some of the
 -- Haskell modes.
 
-module Yi.Syntax.Strokes.Haskell (getStrokes, tokenToAnnot) where
+module Yi.Syntax.Strokes.Tidal (getStrokes, tokenToAnnot) where
 
 import           Prelude           hiding (any, error, exp)
 
@@ -24,7 +24,7 @@ import           Yi.Lexer.Haskell
 import           Yi.String         (showT)
 import           Yi.Style
 import           Yi.Syntax         (Point, Span)
-import           Yi.Syntax.Haskell
+import           Yi.Syntax.Tidal
 import           Yi.Syntax.Tree    (subtrees)
 
 -- TODO: (optimization) make sure we take in account the begin, so we

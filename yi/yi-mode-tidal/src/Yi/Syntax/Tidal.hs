@@ -20,7 +20,7 @@
 -- Note if the layout of the first line (not comments)
 -- is wrong the parser will only parse what is in the blocks given by Layout.hs
 
-module Yi.Syntax.Haskell ( PModule
+module Yi.Syntax.Tidal ( PModule
                          , PModuleDecl
                          , PImport
                          , Exp (..)

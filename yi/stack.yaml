@@ -1,8 +1,7 @@
 flags: {}
 packages:
 - '.'
-# - location: '../../':
-  # subdirs:
+- './yi-mode-tidal'
 - '../yi-core'
 - '../yi-frontend-vty'
 - '../yi-frontend-pango'

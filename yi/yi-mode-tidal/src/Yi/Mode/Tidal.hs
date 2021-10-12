@@ -12,7 +12,7 @@
 --
 -- Collection of 'Mode's for working with Haskell.
 
-module Yi.Mode.Haskell
+module Yi.Mode.Tidal
   (
    -- * Modes
    haskellAbstract,
@@ -61,11 +61,11 @@ import qualified Yi.Rope                   as R
 import           Yi.String                 (fillText, showT)
 import           Yi.Syntax                 (ExtHL (..), Scanner, skipScanner)
 import qualified Yi.Syntax.Driver          as Driver (mkHighlighter)
-import           Yi.Syntax.Haskell         as Hask
+import           Yi.Syntax.Tidal as Hask
 import           Yi.Syntax.Layout          (State)
 import           Yi.Syntax.OnlineTree      as OnlineTree (Tree, manyToks)
 import           Yi.Syntax.Paren           as Paren
-import           Yi.Syntax.Strokes.Haskell as HS (getStrokes)
+import           Yi.Syntax.Strokes.Tidal as HS (getStrokes)
 import           Yi.Syntax.Tree
 import           Yi.Types                  (YiVariable)
 import           Yi.Utils                  (groupBy')
