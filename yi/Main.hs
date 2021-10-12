@@ -81,7 +81,7 @@ main :: IO ()
 main = do
     mayClo <- execParser opts
     case mayClo of
-      Nothing -> putStrLn ("Yi" <> showVersion version )
+      Nothing -> putStrLn ("Yi " <> showVersion version )
       Just clo -> do
         let openFileActions = intersperse (EditorA newTabE) (map (YiA . openNewFile) (files clo))
             moveLineAction  = YiA $ withCurrentBuffer (lineMoveRel (fromMaybe 0 (startOnLine clo)))
@@ -240,4 +240,3 @@ exPwd _ = Nothing
 
 showT :: Show a => a -> T.Text
 showT = T.pack . show
-
