@@ -50,6 +50,10 @@ newtype HelpBuffer = HelpBuffer { helpBuffer :: Maybe BufferRef }
 
 instance YiVariable HelpBuffer
 
+-- ok, right here is where your issue is. This does nothing related to commands
+-- I'm guessing the args to :help get passed to this func
+-- it creates a new buffer, but trace through what happens when it gets no text
+
 -- | Display help buffer with a given text...
 displayHelpBuffer :: T.Text -> YiM ()
 displayHelpBuffer text = withEditor $ withOtherWindow $ do
