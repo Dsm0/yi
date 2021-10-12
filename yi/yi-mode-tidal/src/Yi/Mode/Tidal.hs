@@ -18,7 +18,6 @@ module Yi.Mode.Tidal
    haskellAbstract,
    cleverMode,
    preciseMode,
-   literateMode,
    fastMode,
 
    -- * IO-level operations
@@ -78,9 +77,9 @@ import           Yi.Utils                  (groupBy')
 haskellAbstract :: Mode (tree TT)
 haskellAbstract = emptyMode
   & modeAppliesA .~ extensionOrContentsMatch extensions (shebangParser "runhaskell")
-  & modeNameA .~ "haskell"
+  & modeNameA .~ "tidal"
   & modeToggleCommentSelectionA .~ Just (toggleCommentB "--")
-  where extensions = ["hs", "x", "hsc", "hsinc"]
+  where extensions = ["tidal"]
 
 -- | "Clever" haskell mode, using the paren-matching syntax.
 cleverMode :: Mode (Paren.Tree (Tok Haskell.Token))
@@ -92,24 +91,14 @@ cleverMode = haskellAbstract
 
 fastMode :: Mode (OnlineTree.Tree TT)
 fastMode = haskellAbstract
-  & modeNameA .~ "fast haskell"
+  & modeNameA .~ "fast Tidal"
   & modeHLA .~ mkOnlineModeHL haskellLexer
   & modeGetStrokesA .~ tokenBasedStrokes Paren.tokenToStroke
-
-literateMode :: Mode (Paren.Tree TT)
-literateMode = haskellAbstract
-  & modeNameA .~ "literate haskell"
-  & modeAppliesA .~ anyExtension ["lhs"]
-  & modeHLA .~ mkParenModeHL id literateHaskellLexer
-  & modeGetStrokesA .~ strokesOfParenTree
-    -- FIXME I think that 'begin' should not be ignored
-  & modeIndentA .~ cleverAutoIndentHaskellB
-  & modePrettifyA .~ cleverPrettify . allToks
 
 -- | Experimental Haskell mode, using a rather precise parser for the syntax.
 preciseMode :: Mode (Hask.Tree TT)
 preciseMode = haskellAbstract
-  & modeNameA .~ "precise haskell"
+  & modeNameA .~ "precise Tidal"
   & modeIndentA .~ cleverAutoIndentHaskellC
   & modeGetStrokesA .~ (\ast point begin end -> HS.getStrokes point begin end ast)
   & modeHLA .~ mkHaskModeHL haskellLexer

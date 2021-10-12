@@ -15,7 +15,7 @@ import Yi.Keymap.Vim.StateUtils (resetCountE)
 import Yi hiding (super, option)
 import Yi.Utils (io)
 import Yi.Modes (gnuMakeMode, jsonMode, cMode)
-import Yi.Mode.Tidal (cleverMode, preciseMode, literateMode, fastMode)
+import Yi.Mode.Tidal (cleverMode, preciseMode, fastMode)
 import Yi.Config.Simple.Types
 
 import Yi.Style
@@ -42,7 +42,9 @@ import RainbowMode
 import PyflakesMode
 
 type Bindings = ((V.EventString -> EditorM ()) -> [V.VimBinding])
-type Parsers = [V.EventString -> Maybe V.ExCommand]
+type ExParser = V.EventString -> Maybe V.ExCommand
+type ExParsers = [ExParser]
+
 
 data CommandLineOptions = CommandLineOptions {
     frontend :: Maybe String
@@ -98,13 +100,15 @@ myConfig frontend actions = defaultConfig
             (configureModeline . configureIndent)
             (myModes defaultConfig)
     , startFrontEnd = case frontend of 
-            Nothing -> Pango.start
+            Nothing -> Vty.start
             Just "vty" -> Vty.start
             Just "pango" -> Vty.start
             Just x -> error (x ++ " is not a valid frontned") -- TODO looks kinda ugly, maybe check for frontend earlier
     , defaultKm = myKeymapSet
     , configCheckExternalChangesObsessively = False
-    , configUI = ((configUI defaultConfig) {configTheme = myTheme})
+    , configUI = ((configUI defaultConfig) {configTheme = myTheme
+                                          , configLineNumbers = True
+                                            })
     , startActions =
         (EditorA (do
             e <- get
@@ -113,14 +117,13 @@ myConfig frontend actions = defaultConfig
         : actions
     }
 
-makeKeymapSet  :: Bindings -> Parsers -> KeymapSet
+makeKeymapSet  :: Bindings -> ExParsers -> KeymapSet
 makeKeymapSet bindings parsers = V.mkKeymapSet $ V.defVimConfig `override` \super this ->
     let eval = V.pureEval this
+        allCommands = parsers ++ V.vimExCommandParsers super
     in super
         { V.vimBindings = bindings eval ++ V.vimBindings super
-        , V.vimExCommandParsers =
-            parsers ++ 
-            V.vimExCommandParsers super
+        , V.vimExCommandParsers = allCommands
         }
 
 
@@ -147,7 +150,7 @@ findSnippet snippets =
       expanded <- Snippet.expandSnippetE (defEval "<Esc>") snippets
       when (not expanded) (defEval "<Tab>"))
 
-myParsers :: Parsers
+myParsers :: ExParsers
 myParsers = [exMake , exFlakes , exMakePrgOption , exPwd]
 
 -- useful for defining vim bindings
@@ -227,9 +230,8 @@ myModes cfg
     -- : 
       AnyMode cleverMode
     : AnyMode preciseMode
-    : AnyMode literateMode
     : AnyMode fastMode
-    : AnyMode rainbowParenMode
+    -- : AnyMode rainbowParenMode
     : modeTable cfg
 
 exPwd :: V.EventString -> Maybe V.ExCommand

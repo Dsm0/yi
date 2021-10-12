@@ -5,6 +5,5 @@ import Yi.Mode.Tidal
 
 configureTidalMode :: ConfigM ()
 configureTidalMode = do
-  addMode literateMode
   addMode preciseMode
   addMode cleverMode
