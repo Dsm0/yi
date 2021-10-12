@@ -5,6 +5,7 @@ import Control.Monad.State hiding (state)
 import Data.List (intersperse)
 import Data.Monoid
 import Data.Version
+import Data.Maybe (fromMaybe)
 import qualified Data.Text as T
 import Lens.Micro.Platform
 import System.Directory (getCurrentDirectory)
@@ -75,38 +76,32 @@ commandLineOptions = flag' Nothing
   ))
 
 
-
 main :: IO ()
 main = do
     mayClo <- execParser opts
     case mayClo of
-      Nothing -> putStrLn ("Yi " <> showVersion version)
+      Nothing -> putStrLn ("Yi" <> showVersion version )
       Just clo -> do
-        let actions = intersperse (EditorA newTabE) (map (YiA . openNewFile) $ files clo)
-        startEditor (myConfig actions) Nothing
+        let openFileActions = intersperse (EditorA newTabE) (map (YiA . openNewFile) (files clo))
+            moveLineAction  = YiA $ withCurrentBuffer (lineMoveRel (fromMaybe 0 (startOnLine clo)))
+            cfg = myConfig (frontend clo) (openFileActions ++ [moveLineAction])
+        startEditor cfg Nothing
   where
    opts = info (helper <*> commandLineOptions)
      ( fullDesc
     <> progDesc "Edit files"
-    <> header "Yi - a flexible and extensible text editor written in haskell")
+    <> header "e, a riff on yi...\n\ \hopefully it does tidal stuff by now...")
 
--- main :: IO ()
--- main = do
---     files <- getArgs
---     case files of
---       [] -> startEditor (myConfig []) Nothing
---       ("--help":_) -> putStrLn helpText
---       (arg:args) -> do
---         let actions = intersperse (EditorA newTabE) (map (YiA . openNewFile) files)
---         startEditor (myConfig actions) Nothing
-
-myConfig :: [Action] -> Config
-myConfig actions = defaultConfig
+myConfig :: Maybe String -> [Action] -> Config
+myConfig frontend actions = defaultConfig
     { modeTable =
         fmap
             (configureModeline . configureIndent)
             (myModes defaultConfig)
-    , startFrontEnd = Pango.start
+    , startFrontEnd = case frontend of 
+            Nothing -> Pango.start
+            Just "vty" -> Vty.start
+            Just x -> error (x ++ " is not a valid frontned")
     , defaultKm = myKeymapSet
     , configCheckExternalChangesObsessively = False
     , configUI = ((configUI defaultConfig) {configTheme = myTheme})
@@ -242,5 +237,3 @@ exPwd _ = Nothing
 showT :: Show a => a -> T.Text
 showT = T.pack . show
 
-helpText = "e, a riff on yi...\n\
-            \hopefully it does tidal stuff by now..."
