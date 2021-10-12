@@ -27,7 +27,10 @@ darkTheme = Proto $ const UIStyle {
   , hintStyle          = withBg darkblue
   , strongHintStyle    = withBg blue
 
+  , errorStyle         = withBg red
+
   , commentStyle       = withFg darkred
+  , numberStyle        = withFg white
   , keywordStyle       = withFg brown
   , stringStyle        = withFg purple
   , variableStyle      = withFg cyan
