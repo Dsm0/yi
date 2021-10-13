@@ -75,19 +75,22 @@ import           Yi.Utils                  (groupBy')
 -- may be a little questionable but for now Yi is mostly used by
 -- Haskell hackers so it should be fine, at least for now.
 haskellAbstract :: Mode (tree TT)
-haskellAbstract = emptyMode
-  & modeAppliesA .~ extensionOrContentsMatch extensions (shebangParser "runhaskell")
-  & modeNameA .~ "tidal"
-  & modeToggleCommentSelectionA .~ Just (toggleCommentB "--")
-  where extensions = ["tidal"]
+haskellAbstract = emptyMode {
+  modeApplies = anyExtension ["hs"]
+  , modeName = "tidal"
+  , modeToggleCommentSelection = Just (toggleCommentB "--")
+}
 
 -- | "Clever" haskell mode, using the paren-matching syntax.
 cleverMode :: Mode (Paren.Tree (Tok Haskell.Token))
 cleverMode = haskellAbstract
-  & modeIndentA .~ cleverAutoIndentHaskellB
-  & modeGetStrokesA .~ strokesOfParenTree
-  & modeHLA .~ mkParenModeHL (skipScanner 50) haskellLexer
-  & modePrettifyA .~ cleverPrettify . allToks
+  {
+    modeIndent = cleverAutoIndentHaskellB
+  , modeGetStrokes = strokesOfParenTree
+  , modeHL = mkParenModeHL (skipScanner 50) haskellLexer
+  , modePrettify = cleverPrettify . allToks
+  }
+
 
 fastMode :: Mode (OnlineTree.Tree TT)
 fastMode = haskellAbstract
