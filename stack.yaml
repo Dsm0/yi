@@ -5,7 +5,7 @@ packages:
 - yi-core
 - yi-dynamic-configuration
 - yi-frontend-vty
-# - yi-frontend-pango
+- yi-frontend-pango
 - yi-fuzzy-open
 - yi-keymap-cua
 - yi-keymap-emacs
@@ -23,7 +23,6 @@ resolver: lts-18.3
 allow-newer: true
 extra-deps:
 - Hclip-3.0.0.4@sha256:df341c936594465df25c3b9f93f6ebe3110a36d64a51dbbd1dbd557394bbdba4,1648
-- yi-frontend-pango-0.19.1@sha256:8435f46283b5c4369372e063c98f3a5d1115a3c72999776edab2de3ffb6ce85c,1123
 - glib-0.13.8.1@sha256:42670daf0c85309281e08ba8559df75daa2e3be642e79fdfa781bef5e59658b0,3156
 - gtk-0.15.5@sha256:62b0ed14e07e57f13a575d36f37c6f250ee9ed45d68d492685e8bd26c35c2203,16598
 - pango-0.13.8.1@sha256:877b121c0bf87c96d3619effae6751ecfd74b7f7f3227cf3fde012597aed5ed9,3917

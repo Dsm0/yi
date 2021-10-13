@@ -12,13 +12,6 @@ packages:
   original:
     hackage: Hclip-3.0.0.4@sha256:df341c936594465df25c3b9f93f6ebe3110a36d64a51dbbd1dbd557394bbdba4,1648
 - completed:
-    hackage: yi-frontend-pango-0.19.1@sha256:8435f46283b5c4369372e063c98f3a5d1115a3c72999776edab2de3ffb6ce85c,1123
-    pantry-tree:
-      size: 1570
-      sha256: 80e5ab7e2bdffbeec25c441f4c0052e5bc3fccad942406e0eb9eec5d6cba1248
-  original:
-    hackage: yi-frontend-pango-0.19.1@sha256:8435f46283b5c4369372e063c98f3a5d1115a3c72999776edab2de3ffb6ce85c,1123
-- completed:
     hackage: glib-0.13.8.1@sha256:42670daf0c85309281e08ba8559df75daa2e3be642e79fdfa781bef5e59658b0,3156
     pantry-tree:
       size: 1625
