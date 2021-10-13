@@ -33,6 +33,8 @@ library
     , yi-core >= 0.19
     , yi-language >= 0.19
     , yi-rope >= 0.10
+    , yi-keymap-vim >= 0.19
+    , attoparsec >= 0.13.2.5
   build-tools:
       alex >= 3.0.3 && < 3.2.0 || >= 3.2.1
   exposed-modules:
@@ -45,6 +47,8 @@ library
       Yi.Syntax.Tidal
       Yi.Syntax.Paren
       Yi.Syntax.Strokes.Tidal
+      Yi.Mode.Tidal.TidalCommands
+      Yi.Mode.Tidal.EvalBuffer
   other-modules:
       Paths_yi_mode_tidal
   default-language: Haskell2010

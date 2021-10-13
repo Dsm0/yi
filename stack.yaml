@@ -11,16 +11,25 @@ packages:
 - yi-keymap-emacs
 - yi-keymap-vim
 - yi-mode-haskell
+- yi-mode-tidal
 - yi-mode-javascript
 - yi-misc-modes
 - yi-intero
 - yi-ireader
 - yi-language
 - yi-snippet
-- yi
+- e
 resolver: lts-18.3
 extra-deps:
 - Hclip-3.0.0.4@sha256:df341c936594465df25c3b9f93f6ebe3110a36d64a51dbbd1dbd557394bbdba4,1648
+- yi-frontend-pango-0.19.1@sha256:8435f46283b5c4369372e063c98f3a5d1115a3c72999776edab2de3ffb6ce85c,1123
+- glib-0.13.8.1@sha256:42670daf0c85309281e08ba8559df75daa2e3be642e79fdfa781bef5e59658b0,3156
+- gtk-0.15.5@sha256:62b0ed14e07e57f13a575d36f37c6f250ee9ed45d68d492685e8bd26c35c2203,16598
+- pango-0.13.8.1@sha256:877b121c0bf87c96d3619effae6751ecfd74b7f7f3227cf3fde012597aed5ed9,3917
+- cairo-0.13.8.1@sha256:1938aaeb5d3504678d995774dfe870f6b66cbd43d336b692fa8779b23b2b67a9,4075
+- gio-0.13.8.1@sha256:7404841eefdfffb50c2b5f63879ffe4bf40fb5ddf90a7f633494eca0e23150a5,3136
+- gtk2hs-buildtools-0.13.8.1@sha256:78e0dc8e3ae2d3ebe01d8d65e5f3f463102ea13a66be6bb1bff7a20a3d93486d,5238
+
 build:
  library-profiling: false
  executable-profiling: false

@@ -1,5 +1,4 @@
-module ExCommandsHelp (commandsHelp) where
-
+module Yi.Mode.Tidal.TidalCommands () where
 
 commandsHelp = undefined
 
