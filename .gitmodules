@@ -1,0 +1,3 @@
+[submodule "yi-config"]
+	path = yi-config
+	url = https://github.com/Dsm0/yi-config
