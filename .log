@@ -1,0 +1,1309 @@
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 700 Logging initialized.
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 700 Starting Core
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 700 >>> interactively
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 700 <<<
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 700 >>> interactively
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 700 <<<
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 r = 0 -> 768
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 xs = []
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 xsValid = []
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 p = 768
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 leaf ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:51 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 r = 0 -> 768
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 p = 768
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 r = 0 -> 768
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 p = 768
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 r = 0 -> 768
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 p = 768
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:53 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 702 AHHHHHH
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 r = 0 -> 768
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 p = 768
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:54 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 r = 0 -> 671
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 p = 671
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:42:59 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 r = 0 -> 768
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 p = 768
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:00 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 r = 0 -> 409
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 p = 409
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 r = 0 -> 741
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 p = 741
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:01 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 r = 0 -> 409
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 p = 409
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:40 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 r = 0 -> 477
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 p = 477
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:41 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 r = 0 -> 472
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 p = 472
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:42 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 r = 0 -> 477
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 p = 477
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 r = 0 -> 506
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 p = 506
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 r = 0 -> 578
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 p = 578
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 r = 0 -> 646
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 p = 646
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 r = 0 -> 660
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 p = 660
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:43 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:44 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:44 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:45 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,0,1,0,1,1,0,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leaf ~ 775 -> 776
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:46 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:48 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 702 AHHHHHH
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:50 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:57 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:58 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:43:59 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 702 errorEditor: Prelude.read: no parse
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 r = 410 -> 1048
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 p = 1048
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 focused ~ 299 -> 2535
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:00 UTCThreadId 703 pruned ~ 299 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xs = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,0,1,1,0,1,1,1,0]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 leaf ~ 1053 -> 1054
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:01 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:02 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:03 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:05 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 r = 2148 -> 2536
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 p = 2536
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 leafBeforeP = True
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 focused ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 pathFromFocusedToLeaf = [1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 pruned ~ 1105 -> 2535
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:06 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:07 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:10 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 702 errorEditor: Prelude.read: no parse
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 r = 0 -> 670
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 focused ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:11 UTCThreadId 703 pruned ~ 0 -> 2535
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 r = 267 -> 670
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 p = 670
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:14 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:15 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 267 -> 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 896
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 144 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 661 -> 1337
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 1337
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 r = 661 -> 1337
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 p = 1337
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 focused ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:16 UTCThreadId 703 pruned ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 r = 661 -> 1337
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 p = 1337
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 focused ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 pruned ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 r = 661 -> 1337
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 p = 1337
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 focused ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 pruned ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 r = 661 -> 1337
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 p = 1337
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 focused ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:17 UTCThreadId 703 pruned ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 702 >>> interactively
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 702 AHHHHHH
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 702 <<<
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 refreshing screen.
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 r = 661 -> 1337
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 fromLeafToLeafAfter:
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 xs = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 xsValid = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 p = 1337
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 leafBeforeP = False
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 leaf ~ 2532 -> 2535
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 xs' = [1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 focused ~ 552 -> 2535
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 pathFromFocusedToLeaf = [1,1,0,0,0,1,1,0,0,1,1,1]
+Thu, 18 Nov 2021 20:44:19 UTCThreadId 703 pruned ~ 552 -> 2535

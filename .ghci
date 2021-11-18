@@ -1,0 +1,2 @@
+:set prompt yi>
+:set args -f vty tst_file.hs
