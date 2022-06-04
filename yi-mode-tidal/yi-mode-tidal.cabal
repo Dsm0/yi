@@ -36,7 +36,7 @@ library
     , yi-keymap-vim >= 0.19
     , attoparsec >= 0.13.2.5
     , mtl
-    , idris
+    -- , idris
     , trifecta
     -- , yi >= 0.19.0
 -- fuck hidden packages

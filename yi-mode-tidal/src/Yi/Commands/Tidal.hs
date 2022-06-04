@@ -2,7 +2,7 @@
 
 module Yi.Commands.Tidal
     ( 
-        -- startIdrisIDE , exIdris 
+        startTidal
     ) where
 
 -- import Control.Applicative
@@ -23,7 +23,7 @@ module Yi.Commands.Tidal
 -- -- import IdrisIDESexp
 
 -- import Yi
--- import Yi.Types
+import Yi.Types
 -- import qualified Yi.Keymap.Vim.Common as Vim
 -- import qualified Yi.Keymap.Vim.Ex as Vim
 -- import qualified Yi.Keymap.Vim.Ex.Commands.Common as Vim
@@ -50,6 +50,11 @@ module Yi.Commands.Tidal
 --     def = error "def IdrisProcess"
 
 -- instance YiVariable IdrisProcess
+
+
+startTidal :: YiM ()
+startTidal = do
+    error "unimplemented"
 
 -- startIdris :: YiM ()
 -- startIdris = do
